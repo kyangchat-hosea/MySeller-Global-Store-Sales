@@ -61,7 +61,7 @@ The data was first normalised in Excel before being transformed in Power Query. 
 ![Category and GDP Analysis](https://github.com/kyangchat-hosea/MySeller-Global-Store-Sales/blob/main/Images/Myseller%20Category%20and%20GDP.png)
 
 - Across Category, Beverages had the most interesting recent trend and started trending down on 2019, falling by 76.48% ($9,225,893.3) in 2 years.
-- Sub-Saharan Africa accounted for 45.69% of Sum of Total Revenue.
+- Sub-Saharan Africa Countries accounted for 45.69% of Total Revenue.
 
   
 ## Recommendation
@@ -82,4 +82,5 @@ The data was first normalised in Excel before being transformed in Power Query. 
 The analysis of Mysellar’s global sales data reveals both strengths and areas for improvement in the company’s operations. Strengthening offline sales, focusing on top regions like Europe and Sub-Saharan Africa, and improving logistics in slower markets will be key to driving recovery and sustainable expansion. Aligning efforts with growing economies will further position Mysellar for future success.
 
 ## Download
-<a href = "https://github.com/kyangchat-hosea/MySeller-Global-Store-Sales/raw/refs/heads/main/Images/Kyangchat_Zachariah_MySeller_Global%20_Store_Project.pbix" Download Power BI file <a/>
+<a href = "https://github.com/kyangchat-hosea/MySeller-Global-Store-Sales/blob/main/Images/Kyangchat_Zachariah_MySeller_Global%20_Store_Sales%20_Project.pbix"> Download Power BI file </a>
+
