@@ -32,11 +32,12 @@ Through descriptive analytics, this report explores sales trends, product perfor
 - Data Transformation with Powery Query
 - Data Modelling
 - Bookmarks
-- Slicers for interactive filtering
 - Report Automation
 - Data Visualization
   
 ## Data Source
+<a href = "https://resagratia.com/library/data-analytics-portfolio-and-capstone-project?"> Resagratia </a>
+<a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> Wikipedia </a>
 
 ## Data Model
 
@@ -53,7 +54,7 @@ Through descriptive analytics, this report explores sales trends, product perfor
 - Shipping Performance: Europe has the fastest average shipping time (8 days) while Australia and Oceania have the slowest shipping time (10 days).
 
 ## Recommendation
-- Boost Investment in Offline Sales:Given that offline channels generate slightly higher profits, Mysellar should strengthen physical store operations, especially in high-performing regions.
+- Boost Investment in Offline Sales: Given that offline channels generate slightly higher profits, Mysellar should strengthen physical store operations, especially in high-performing regions.
 
 - Revive Revenue Growth Strategies: The significant decline in revenue and profit in 2021 calls for renewed marketing, customer engagement, and sales campaigns to drive recovery.
 
@@ -65,7 +66,7 @@ Through descriptive analytics, this report explores sales trends, product perfor
 
 - Monitor Economic Trends: Particularly in Sub-Saharan Africa, align market efforts with GDP growth patterns to tap into regions where economic prosperity can drive sales.
 
-## Conculsion
+## Conclusion
 
 The analysis of Mysellar’s global sales data reveals both strengths and areas for improvement in the company’s operations. Strengthening offline sales, focusing on top regions like Europe and Sub-Saharan Africa, and improving logistics in slower markets will be key to driving recovery and sustainable expansion. Aligning efforts with growing economies will further position Mysellar for future success.
 
