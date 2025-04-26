@@ -37,13 +37,16 @@ Through descriptive analytics, this report explores sales trends, product perfor
   
 ## Data Source
 <a href = "https://resagratia.com/library/data-analytics-portfolio-and-capstone-project?"> Resagratia </a>
+
 <a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> Wikipedia </a>
 
 ## Data Model
+The data was first normalised in Excel before being transformed in Power Query. A date table was also created in Power Query.
 
+![Data Model] (https://github.com/kyangchat-hosea/MySeller-Global-Store-Sales/blob/main/Images/MySeller%20Data%20Model.png)
 ## Dashboard Insight
-
 ### Overview 
+![Overview Dashboard] (https://github.com/kyangchat-hosea/MySeller-Global-Store-Sales/blob/main/Images/MySeller%20Main.png)
 
 - Overall Performance: Mysellar achieved a total revenue of $1.32 billion and a total profit of $388.94 million, resulting in a 29.36% profit margin.
 
