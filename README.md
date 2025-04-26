@@ -43,10 +43,11 @@ Through descriptive analytics, this report explores sales trends, product perfor
 ## Data Model
 The data was first normalised in Excel before being transformed in Power Query. A date table was also created in Power Query.
 
-![Data Model] (https://github.com/kyangchat-hosea/MySeller-Global-Store-Sales/blob/main/Images/MySeller%20Data%20Model.png)
+![Data Model](https://github.com/kyangchat-hosea/MySeller-Global-Store-Sales/blob/main/Images/MySeller%20Data%20Model.png)
+
 ## Dashboard Insight
 ### Overview 
-![Overview Dashboard] (https://github.com/kyangchat-hosea/MySeller-Global-Store-Sales/blob/main/Images/MySeller%20Main.png)
+![Overview dashboard](https://github.com/kyangchat-hosea/MySeller-Global-Store-Sales/blob/main/Images/MySeller%20Main.png)
 
 - Overall Performance: Mysellar achieved a total revenue of $1.32 billion and a total profit of $388.94 million, resulting in a 29.36% profit margin.
 
@@ -55,7 +56,14 @@ The data was first normalised in Excel before being transformed in Power Query. 
 - Regional Performance: Europe and Sub-Saharan Africa lead in units sold (both at 1.2 million units).
 
 - Shipping Performance: Europe has the fastest average shipping time (8 days) while Australia and Oceania have the slowest shipping time (10 days).
+  
+  ### Category and GDP Analysis
+![Category and GDP Analysis](https://github.com/kyangchat-hosea/MySeller-Global-Store-Sales/blob/main/Images/Myseller%20Category%20and%20GDP.png)
 
+- Across Category, Beverages had the most interesting recent trend and started trending down on 2019, falling by 76.48% ($9,225,893.3) in 2 years.
+- Sub-Saharan Africa accounted for 45.69% of Sum of Total Revenue.
+
+  
 ## Recommendation
 - Boost Investment in Offline Sales: Given that offline channels generate slightly higher profits, Mysellar should strengthen physical store operations, especially in high-performing regions.
 
@@ -73,4 +81,5 @@ The data was first normalised in Excel before being transformed in Power Query. 
 
 The analysis of Mysellar’s global sales data reveals both strengths and areas for improvement in the company’s operations. Strengthening offline sales, focusing on top regions like Europe and Sub-Saharan Africa, and improving logistics in slower markets will be key to driving recovery and sustainable expansion. Aligning efforts with growing economies will further position Mysellar for future success.
 
-This repository details to Analysis and Visualization of Mysellar Global Store Sales from 2019 to 2021
+## Download
+<a href = "https://github.com/kyangchat-hosea/MySeller-Global-Store-Sales/raw/refs/heads/main/Images/Kyangchat_Zachariah_MySeller_Global%20_Store_Project.pbix" Download Power BI file <a/>
